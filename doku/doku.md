@@ -3,7 +3,7 @@ Das Projekt besteht in der Entwicklung einer einfachen Lagerverwaltungs-App, die
 erlauben, Produkte zu suchen, Lagerorte zu identifizieren und Bestände in Echtzeit einzusehen. Mit der App können Unternehmen ihre Lager effizient verwalten, indem sie die Zugänglichkeit von Lagerdaten verbessert und die Nachverfolgbarkeit von Produkten erleichtert.
 
 ### Zielsetzung (SMART-Ziele):
-Innerhalb von 2 Monaten soll eine 
+Innerhalb von 3 Monaten soll eine 
 funktionsfähige Lagerverwaltungs-App 
 entwickelt werden, die es den Nutzern 
 ermöglicht, Lagerorte und Bestände von 
@@ -13,7 +13,7 @@ für mobile Geräte als auch für den Desktop
 nutzbar sein und eine intuitive Suchfunktion 
 bieten, um Produkte schnell zu finden. 
 Die Genauigkeit der Bestandsdaten soll 
-bei mindestens 98 % liegen.
+bei mindestens 90 % liegen.
 
 ### Projektorganisation und Aufteilung
 Wir machen eine Matrix Organisation, wobei die Routinearbeit die Schule ist und das Projekt nebenbei gemacht wird.
