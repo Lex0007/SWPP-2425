@@ -23,6 +23,14 @@ Wir machen eine Matrix Organisation, wobei die Routinearbeit die Schule ist und 
 - Projektmitarbeiter: Robin Melmer und Markus Grün
 - Kunde: Unternehmer
 
+## Teamaufgabe II
+
+### Screenshot PSP
+![Screenshot PSP](images/PSP.png)
+
+### Screenshot GANTT
+![Screenshot GANTT](images/GANTT.png)
+
 
 
 
